@@ -24,7 +24,7 @@ I use Airbnb data from 2019-2020 to answer these questions:
 
 There is one Jupyter notebook (file extension .ipynb) with the analysis of the above questions. Markdown cells were used to assist in walking through the thought process.  
 
-Four CSV files contain the data used. Details are given in the notebook and below under licensing.
+Details for the CSV files used are given in the notebook and below under licensing.
 
 ## Results<a name="results"></a>
 
