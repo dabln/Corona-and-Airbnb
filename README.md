@@ -7,6 +7,10 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
+<div align="center">
+  <img src="https://github.com/dabln/CoronaAndAirbnb/blob/master/img/CoronaAndAirbnb.png?raw=true"><br>
+</div>
+
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. Exception: the Natural Language Toolkit (nltk).  The code should run with no issues using Python versions 3.*.
@@ -28,7 +32,7 @@ Details for the CSV files used are given in the notebook and below under licensi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://janhenner.medium.com/this-is-how-corona-affects-airbnb-in-berlin-f8ceb40c711b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
