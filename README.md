@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/dabln/CoronaAndAirbnb/blob/master/img/CoronaAndAirbnb.png?raw=true" alt="Corona and Airbnb" width="700"/><br>
+</div>
 
 ### Table of Contents
 
@@ -7,13 +10,11 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-<div align="center">
-  <img src="https://github.com/dabln/CoronaAndAirbnb/blob/master/img/CoronaAndAirbnb.png?raw=true" alt="Corona and Airbnb" width="600"/><br>
-</div>
 
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. Exception: the Natural Language Toolkit (nltk).  The code should run with no issues using Python versions 3.*.
+
 
 ## Project Motivation<a name="motivation"></a>
 
