@@ -8,7 +8,7 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 <div align="center">
-  <img src="https://github.com/dabln/CoronaAndAirbnb/blob/master/img/CoronaAndAirbnb.png?raw=true"><br>
+  <img src="https://github.com/dabln/CoronaAndAirbnb/blob/master/img/CoronaAndAirbnb.png?raw=true" alt="Corona and Airbnb" width="600"/><br>
 </div>
 
 ## Installation <a name="installation"></a>
